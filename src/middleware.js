@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 
 const PLAY_STORE_URL =
-  'https://play.google.com/store/apps/details?id=com.wellnessz.healthwithdhriti';
+  'https://play.google.com/store/apps/details?id=com.wellnessz.swasthykipathshala';
 const APP_STORE_URL =
   'https://apps.apple.com/us/app/wellnessz/id6478812964';
 
