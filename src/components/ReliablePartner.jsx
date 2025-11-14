@@ -1,4 +1,3 @@
-import React from 'react'
 import Image from 'next/image'
 
 const ReliablePartner = () => {
@@ -35,7 +34,7 @@ const ReliablePartner = () => {
         <div className='flex flex-col gap-3 sm:gap-4 px-4 sm:px-0'>
           <p className='font-bold text-[#1D1D1D] text-2xl sm:text-3xl md:text-4xl'>Your Reliable Partner in Wellness</p>  
           <p className='font-semibold text-sm sm:text-base md:text-lg text-[#333333] max-w-[90%] mx-auto 2xl:mx-0 sm:max-w-[80%] 2xl:max-w-none'>
-            Health with Dhriti  combines the power of science-backed nutrition with personalized guidance to help you reclaim your health and live healthy life.
+            Swasthya Ki Pathshala  combines the power of science-backed nutrition with personalized guidance to help you reclaim your health and live healthy life.
           </p>
         </div>
 

@@ -9,7 +9,7 @@ export default function Works() {
     },
     {
       id: "02",
-      title: "Get Instant Access to Health with Dhriti ",
+      title: "Get Instant Access to Swasthya Ki Pathshala ",
       desc: "Once you sign up, you'll receive a direct login link to our app—no extra steps needed!",
     },
     {

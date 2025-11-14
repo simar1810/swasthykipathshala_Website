@@ -6,9 +6,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.wellnessz.healthwithdhriti",
+      "package_name": "com.wellnessz.swasthykipathshala",
       "sha256_cert_fingerprints": [
-        "15:66:F2:82:B2:78:D9:6F:CF:E2:AE:43:A4:30:24:60:86:04:02:8D:98:DE:F1:0A:2C:DB:3A:76:B2:63:2A:D2"
+        "C0:27:ED:5D:A5:AD:D0:5B:4B:30:85:4A:DE:AA:6E:11:BC:0D:8C:EF:91:07:E1:7D:40:28:20:B3:92:71:FF:82"
       ]
     }
   }

@@ -58,7 +58,7 @@ const PrivacyPolicy = () => {
             <li>
               {/* changed */}
               <strong>Company</strong> (referred to as either "the Company",
-              "We", "Us" or "Our" in this Agreement) refers to Health with Dhriti .
+              "We", "Us" or "Our" in this Agreement) refers to Swasthya Ki Pathshala .
             </li>
             <li>
               <strong>Cookies</strong> are small files placed on Your computer,
@@ -90,7 +90,7 @@ const PrivacyPolicy = () => {
             </li>
             <li>
               {/* changed */}
-              <strong>Website</strong> refers to Health with Dhriti , accessible from{" "}
+              <strong>Website</strong> refers to Swasthya Ki Pathshala , accessible from{" "}
               <a
                 href="https://https://www.dhriti.wellnessz.in//"
                 target="_blank"

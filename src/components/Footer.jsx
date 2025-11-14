@@ -108,7 +108,7 @@ export default function Footer() {
               className="mt-1 sm:mt-1.5 w-4 h-4 sm:w-5 sm:h-5 accent-[#067a42] cursor-pointer flex-shrink-0"
             />
             <span className="text-sm sm:text-base text-[#2E2D2D] font-medium leading-relaxed">
-              I consent to receiving RCS, WhatsApp, Email or SMS from Health with Dhriti & I have reviewed and agreed to{" "}
+              I consent to receiving RCS, WhatsApp, Email or SMS from Swasthya Ki Pathshala & I have reviewed and agreed to{" "}
               <span
                 className="text-[#067a42] hover:underline font-semibold cursor-pointer"
                 onClick={() => window.open("/terms-and-conditions", "_blank")}
@@ -153,7 +153,7 @@ export default function Footer() {
             className="w-36 sm:w-44 lg:w-52"
           />
           <p className="font-medium mt-4 sm:mt-5 md:mt-0 text-sm sm:text-base xl:text-lg leading-relaxed text-center md:text-left max-w-sm lg:max-w-md xl:max-w-lg">
-            At Health with Dhriti, we believe in empowering every individual to live a balanced,
+            At Swasthya Ki Pathshala, we believe in empowering every individual to live a balanced,
             healthy, and fulfilled life. Through expert guidance, nutrition, and a supportive
             community, we help you achieve lasting transformation—inside and out.
           </p>

@@ -17,11 +17,11 @@ const TermsAndConditionsPage = () => {
           <h2 className="text-xl font-semibold text-[#3D3D3D] border-l-4 border-[#D58411] pl-3">
             Terms and Conditions
           </h2>
-          <p>Welcome to Health with Dhriti !</p> 
+          <p>Welcome to Swasthya Ki Pathshala !</p> 
 
           <p>
             These terms and conditions outline the rules and regulations for the use
-            of Health with Dhriti &apos;s website, located at {" "}
+            of Swasthya Ki Pathshala &apos;s website, located at {" "}
             <a
               href="https://https://www.dhriti.wellnessz.in/"
               target="_blank"
@@ -34,7 +34,7 @@ const TermsAndConditionsPage = () => {
           {/* change */}
           <p>
             By accessing this website, we assume you accept these terms and
-            conditions. Do not continue to use Health with Dhriti  if you do not agree to
+            conditions. Do not continue to use Swasthya Ki Pathshala  if you do not agree to
             all of the terms and conditions stated on this page.
           </p>
 {/* change */}
@@ -44,7 +44,7 @@ const TermsAndConditionsPage = () => {
             &quot;You&quot;, and &quot;Your&quot; refer to you, the person logging
             on to this website and complying with the Company&apos;s terms and
             conditions. &quot;The Company&quot;, &quot;Ourselves&quot;,
-            &quot;We&quot;, &quot;Our&quot;, and &quot;Us&quot; refer to Health with Dhriti 
+            &quot;We&quot;, &quot;Our&quot;, and &quot;Us&quot; refer to Swasthya Ki Pathshala 
             . &quot;Party&quot;, &quot;Parties&quot;, or &quot;Us&quot; refer
             to both the Client and ourselves. All terms refer to the offer,
             acceptance, and consideration of payment necessary to undertake the
@@ -62,8 +62,8 @@ const TermsAndConditionsPage = () => {
           </h3>
 {/* change */}
           <p>
-            We employ the use of cookies. By accessing Health with Dhriti , you agree to
-            use cookies in accordance with Health with Dhriti &apos;s Privacy Policy.
+            We employ the use of cookies. By accessing Swasthya Ki Pathshala , you agree to
+            use cookies in accordance with Swasthya Ki Pathshala &apos;s Privacy Policy.
           </p>
 
           <p>
@@ -79,19 +79,19 @@ const TermsAndConditionsPage = () => {
           </h3>
 {/* change */}
           <p>
-            Unless otherwise stated, Health with Dhriti  and/or its licensors own the
+            Unless otherwise stated, Swasthya Ki Pathshala  and/or its licensors own the
             intellectual property rights for all material on Nutri Health. All
             intellectual property rights are reserved. You may access this from
-            Health with Dhriti  for your own personal use subject to the restrictions set
+            Swasthya Ki Pathshala  for your own personal use subject to the restrictions set
             in these terms and conditions.
           </p>
 {/* change */}
           <p>You must not:</p>
           <ul className="list-disc list-inside space-y-1">
-            <li>Republish material from Health with Dhriti ;</li>
-            <li>Sell, rent, or sub-license material from Health with Dhriti ;</li>
-            <li>Reproduce, duplicate, or copy material from Health with Dhriti ;</li>
-            <li>Redistribute content from Health with Dhriti .</li>
+            <li>Republish material from Swasthya Ki Pathshala ;</li>
+            <li>Sell, rent, or sub-license material from Swasthya Ki Pathshala ;</li>
+            <li>Reproduce, duplicate, or copy material from Swasthya Ki Pathshala ;</li>
+            <li>Redistribute content from Swasthya Ki Pathshala .</li>
           </ul>
 
           <p>
@@ -110,18 +110,18 @@ const TermsAndConditionsPage = () => {
 {/* change */}
           <p>
             Parts of this website offer an opportunity for users to post and
-            exchange opinions and information in certain areas of the website. Health with Dhriti  does not filter, edit, publish, or review Comments prior to their
+            exchange opinions and information in certain areas of the website. Swasthya Ki Pathshala  does not filter, edit, publish, or review Comments prior to their
             presence on the website. Comments do not reflect the views or opinions
-            of Health with Dhriti , its agents, and/or affiliates. Comments reflect the
+            of Swasthya Ki Pathshala , its agents, and/or affiliates. Comments reflect the
             views and opinions of the person who posts them. To the extent permitted
-            by applicable law, Health with Dhriti  shall not be liable for the Comments or
+            by applicable law, Swasthya Ki Pathshala  shall not be liable for the Comments or
             for any liability, damages, or expenses caused and/or suffered as a
             result of any use of and/or posting of and/or appearance of the Comments
             on this website.
           </p>
 {/* change */}
           <p>
-            Health with Dhriti  reserves the right to monitor all Comments and to remove
+            Swasthya Ki Pathshala  reserves the right to monitor all Comments and to remove
             any Comments that can be considered inappropriate, offensive, or that
             cause a breach of these Terms and Conditions.
           </p>
@@ -149,7 +149,7 @@ const TermsAndConditionsPage = () => {
           </ul>
 {/* change */}
           <p>
-            You hereby grant Health with Dhriti  a non-exclusive license to use, reproduce,
+            You hereby grant Swasthya Ki Pathshala  a non-exclusive license to use, reproduce,
             edit, and authorize others to use, reproduce, and edit any of your
             Comments in any and all forms, formats, or media.
           </p>
@@ -207,7 +207,7 @@ const TermsAndConditionsPage = () => {
             that: (a) the link would not make us look unfavorably to ourselves or to
             our accredited businesses; (b) the organization does not have any
             negative records with us; (c) the benefit to us from the visibility of
-            the hyperlink compensates the absence of Health with Dhriti ; and (d) the link
+            the hyperlink compensates the absence of Swasthya Ki Pathshala ; and (d) the link
             is in the context of general resource information.
           </p>
 
@@ -223,7 +223,7 @@ const TermsAndConditionsPage = () => {
           </ul>
 {/* change */}
           <p>
-            No use of Health with Dhriti &apos;s logo or other artwork will be allowed for
+            No use of Swasthya Ki Pathshala &apos;s logo or other artwork will be allowed for
             linking absent a trademark license agreement.
           </p>
 
