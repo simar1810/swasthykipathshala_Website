@@ -1,6 +1,9 @@
-{
-    "redirects": [
-      { "source": "/", "destination": "/app", "permanent": true }
-    ]
-  }
+// {
+//     "redirects": [
+//       { "source": "/", "destination": "/app", "permanent": true }
+//     ]
+//   }
   
+
+
+{ "rewrites": [{ "source": "/(.*)", "destination": "/" }] }
