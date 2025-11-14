@@ -7,7 +7,7 @@ export default function Page() {
       <div className="xl:min-w-1/2 flex flex-col items-center xl:items-start xl:pl-6 md:mt-[10rem] xl:mt-0 text-center xl:text-left">
         <p className="text-sm md:text-xl lg:text-3xl xl:text-xl mb-5 opacity-70 ">Begin your journey Towards Making People Healthy</p>
         <div className="flex justify-between items-center gap-5 mb-5">
-          <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.healthwithdhriti" target="_blank">
+          <Link href="https://play.google.com/store/apps/details?id=com.wellnessz.swasthykipathshala" target="_blank">
             <Image src="/playstore.png" alt="Google Store" width={150} height={40} className="cursor-pointer w-2xs" />
           </Link>
           <Link href="https://apps.apple.com/us/app/wellnessz/id6478812964" target="_blank">
@@ -18,7 +18,7 @@ export default function Page() {
 
       <div className="flex justify-center items-center mr-2 md:mr-12">
         <Image
-          src="/HWD_Mockup.png"
+          src="/client-assets/HWD_Mockup.png"
           alt="HWD Mockup"
           width={900}
           height={900}
