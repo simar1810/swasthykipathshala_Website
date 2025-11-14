@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.wellnessz.healthwithdhriti",
+      "sha256_cert_fingerprints": [
+        "15:66:F2:82:B2:78:D9:6F:CF:E2:AE:43:A4:30:24:60:86:04:02:8D:98:DE:F1:0A:2C:DB:3A:76:B2:63:2A:D2"
+      ]
+    }
+  }
+]
